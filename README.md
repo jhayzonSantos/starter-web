@@ -16,6 +16,6 @@ This is a simple web project, deployment can be on any web server or even local 
 
 Please fork this repo and issue pull request for review
 
-## Copyright
+### Copyright
 
-2020 Copyright
+2020 Copyright, all rights reserved
